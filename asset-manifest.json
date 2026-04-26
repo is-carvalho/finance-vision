@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.493b215f.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.6ef41272.js",
-    "static/js/453.3ef6fe3a.chunk.js": "/%7Brepo-name%7D/static/js/453.3ef6fe3a.chunk.js",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "main.493b215f.css.map": "/%7Brepo-name%7D/static/css/main.493b215f.css.map",
-    "main.6ef41272.js.map": "/%7Brepo-name%7D/static/js/main.6ef41272.js.map",
-    "453.3ef6fe3a.chunk.js.map": "/%7Brepo-name%7D/static/js/453.3ef6fe3a.chunk.js.map"
+    "main.css": "/finance-vision/static/css/main.493b215f.css",
+    "main.js": "/finance-vision/static/js/main.62134376.js",
+    "static/js/453.3ef6fe3a.chunk.js": "/finance-vision/static/js/453.3ef6fe3a.chunk.js",
+    "index.html": "/finance-vision/index.html",
+    "main.493b215f.css.map": "/finance-vision/static/css/main.493b215f.css.map",
+    "main.62134376.js.map": "/finance-vision/static/js/main.62134376.js.map",
+    "453.3ef6fe3a.chunk.js.map": "/finance-vision/static/js/453.3ef6fe3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.493b215f.css",
-    "static/js/main.6ef41272.js"
+    "static/js/main.62134376.js"
   ]
 }
